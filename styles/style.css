@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(194, 206, 216);
+
+}
+#Card{
+    background-color: rgb(167, 178, 164);
+    border: 2px solid black ;
+    border-radius: 8%;
+    margin: 0% auto;
+    height: 450px;
+    width: 450px;
+    
+    display: block;
+}
+#card-profile{
+    background-color: rgb(109, 91, 70);
+    padding: 5px;
+    border-radius: 10%;
+    height: 200px;
+    width: 440px;
+    border: 2px dotted solid black;
+    
+}
+.card-img{
+    height: 180px;
+    width: 108;
+    border-radius: 100%;
+    margin: 0% auto;
+    float: left;
+    margin-right: 10px;
+}
+.card-name{
+    font-family: 'Times New Roman', Times, serif;
+    text-align:center;
+    font-size: 30px;
+}
+.card-prof{
+    font-family: 'Times New Roman', Times, serif;
+    text-align:center;
+    font-size: 25px;
+}
+#card-details{
+    text-align: center;
+    font-family: sans-serif;
+}
+.card-info{
+    
+}
+.icon{
+    width: 30px;
+    padding: 2px;
+}
